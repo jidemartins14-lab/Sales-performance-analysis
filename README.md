@@ -14,6 +14,3 @@ It explores trends, sales by region, sales by customer and customer behavior usi
 
 ## Preview
 [![Dashboard Sceenshot](./Screenshot%20(176).png)](./Screenshot%20(176).png)
-
-> Click the image above to see the dashboard summarizing my analysis 
-This repo contains a beginner-friendly sales analysis project done in excel
