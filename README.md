@@ -13,4 +13,4 @@ It explores trends, sales by region, sales by customer and customer behavior usi
 - Data insight visualization 
 
 ## Preview
-[![Dashboard Sceenshot](./Screenshot%20(176)(Jide Jegede advanced_sales_dataset.xlsx)
+[![Dashboard Sceenshot](./Screenshot%20(176)](Jide Jegede advanced_sales_dataset.xlsx)
