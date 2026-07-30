@@ -13,7 +13,7 @@ It explores trends, sales by region, sales by customer and customer behavior usi
 - Data insight visualization 
 
 ## Preview
-![Dashboard Screeshots](image/Screenshot160.png)
+![Dashboard Screeshots](Screenshot (160).png)
 
 > Click the image above to see the dashboard summarizing my analysis 
 This repo contains a beginner-friendly sales analysis project done in excel
