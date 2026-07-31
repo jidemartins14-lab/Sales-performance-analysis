@@ -1,16 +1,18 @@
-# Sales-performance-analysis
+# 📊 Sales-Performance-Analysis
 
-## Tools Used
+## 🛠 Tools Used
 - Microsoft Excel
 
-## Project Overview
+## 📋 Project Overview
 This project analyses the monthly sales performance of a consumer electronics and furniture retailer.
 It explores trends, sales by region, sales by customer and customer behavior using pivot tables and interactive dashboards.
 
-## What I Learned
+## 💡 What I Learned
 - How to clean messy data in excel using formulas and functions
 - Using pivot tables to summarize KPIs
 - Data insight visualization 
 
-## Preview
+## 🔗 Preview
 [Click here to view and download the Excel Dashboard](./Jide%20Jegede%20advanced_sales_dataset.xlsx)
+# sales-performance-analysis
+This repo contains a beginner-friendly sales analysis project done in Excel
